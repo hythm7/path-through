@@ -4,7 +4,7 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "blah blah blah",
+  "description" : "Additional subs for Path",
   "license" : "Artistic-2.0",
   "name" : "Path::Through",
   "perl" : "6.c",
@@ -12,7 +12,7 @@
     "Path::Through" : "lib/Path/Through.pm6"
   },
   "resources" : [ ],
-  "source-url" : "",
+  "source-url" : "https://github.com/hythm7/path-through",
   "tags" : [ ],
   "test-depends" : [ ],
   "version" : "0.0.1"
