@@ -1,10 +1,11 @@
 {
+  "auth" : "cpan:hythm",
   "authors" : [
     "Haytham Elganiny"
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "Additional multis for Path",
+  "description" : "Provides `append`, `prepend`, `pop` and `shift` multis to `IO::Path` (Linux only)",
   "license" : "Artistic-2.0",
   "name" : "Path::Through",
   "perl" : "6.c",

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hythm7/path-through.svg?branch=master)](https://travis-ci.org/hythm7/path-through)
+
 NAME
 ====
 
@@ -6,8 +8,7 @@ NAME
 SYNOPSIS
 ========
 
-```
-
+```perl6
 use Path::Through;
 
 my $path = '/b'.IO;
@@ -24,7 +25,6 @@ say $path;                     # "a/b".IO
 
 $path = $path.&shift;
 say $path;                     # "b".IO
-
 ```
 
 AUTHOR
