@@ -1,7 +1,7 @@
 NAME
 ====
 
-Path::Through - Provides `append`, `prepend`, `shift` and `unshift` to `IO::Path` (Linux only)
+`Path::Through` - Provides `append`, `prepend`, `pop` and `shift` multis to `IO::Path` (Linux only)
 
 SYNOPSIS
 ========
