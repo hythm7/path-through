@@ -27,12 +27,6 @@ say $path;                     # "b".IO
 
 ```
 
-DESCRIPTION
-===========
-
-Path::Through provides `append`, `prepend`, `pop` and `shift` to `IO::Path`
-
-
 AUTHOR
 ======
 
