@@ -4,7 +4,7 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "Additional subs for Path",
+  "description" : "Additional multis for Path",
   "license" : "Artistic-2.0",
   "name" : "Path::Through",
   "perl" : "6.c",
