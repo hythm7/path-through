@@ -8,7 +8,8 @@
   "description" : "Provides `append`, `prepend`, `pop` and `shift` multis to `IO::Path` (Linux only)",
   "license" : "Artistic-2.0",
   "name" : "Path::Through",
-  "perl" : "6.*",
+  "api" : "*",
+  "perl" : "6.c",
   "provides" : {
     "Path::Through" : "lib/Path/Through.pm6"
   },
